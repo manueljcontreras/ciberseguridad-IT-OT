@@ -4,7 +4,7 @@ La ciberseguridad **nació en 1971 no para detener a grandes criminales**, sino 
  ![El primer Antivirus contra el primer virus](imagenes/anti-vi.jpg)
 
 ## DEFINICIÓN
-La ciberseguridad hace que todos los objetos como por ejemplo los que tenemos en casa como: moviles, ordenadores, y su información INTERNA como las fotos, vídeos Ycuentas bancarias. La ciberseguridad son las cerraduras, puertas de por medio, hueya dactilar, sensores y obstáculos para evitar que los ladrones accedan a esa información del usuario.
+La ciberseguridad hace que todos los objetos como por ejemplo los que tenemos en casa como: moviles, ordenadores, y su informacion interna como las fotos, vídeos y cuentas bancarias se mantengan seguras. La ciberseguridad son las cerraduras, puertas de por medio, hueya dactilar, sensores y obstáculos para evitar que los ladrones accedan a esa información del usuario.
 
 ## **Tipos de CIBERSEGURIDAD**
 
@@ -29,7 +29,7 @@ La ciberseguridad hace que todos los objetos como por ejemplo los que tenemos en
 2. La **INTEGRIDAD** asegura que los datos no cambien o se rompan, siguiendo igual que como estaban al principio.
     - **EJEMPLO**: subir un archivo y guardarlo en una WEB, garantizando que ningun usuario que vea ese archivo pueda cambiar la información de este.
 
-3. La DISPONIBILIDAD, los sistemas, aplicaciones y datos deben estar accesibles y funcionando siempre que los usuarios legítimos los necesiten.
+3. La **DISPONIBILIDAD**, los sistemas, aplicaciones y datos deben estar accesibles y funcionando siempre que los usuarios legítimos los necesiten.
     - **EJEMPLO**: Si pagas un mes de Claude Pro, la disponibilidad garantiza que puedas usar la IA 24/7 sin caídas. Si un ciberataque satura la red, los sistemas de seguridad bloquean el tráfico malicioso y reservan los servidores para los usuarios de pago, asegurando que tu servicio nunca deje de funcionar.
 
 4. La **AUTENTICACIÓN**, es el proceso de verificar sin lugar a dudas que un usuario es quien dice ser.
